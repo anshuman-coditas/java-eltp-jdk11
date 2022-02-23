@@ -14,5 +14,8 @@ public class Ques3 {
             System.out.println("Terminating");
         }
     }
-
+/*
+Allocating Memory
+Terminating due to java.lang.OutOfMemoryError: Java heap space
+ */
 

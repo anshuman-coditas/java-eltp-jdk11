@@ -9,3 +9,7 @@ public class Ques1 {
         nullCheck.ifPresentOrElse((a)-> System.out.println("Name is:: "+a),()-> System.out.println("No value present"));
     }
 }
+/*
+Name is:: Anshuman
+
+ */
